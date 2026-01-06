@@ -14,9 +14,9 @@ I am Kris, currently a postdoctoral researcher working with Ken Miller at the Ce
 I use mathematical and computational approaches to understand how neural computations emerge from the interplay between circuit structure, network dynamics, and synaptic plasticity.
 
 Selected topics I have worked on include:
-* Investigating how recurrent cortical circuits with diverse cell types implement context-dependent processing using data-driven approaches.
-* Studying how short-term synaptic plasticity shapes network dynamics and computations in recurrent circuits (Wu & Zenke, 2021 eLife; Waitzmann*, Wu*, Gjorgjieva, 2024 PNAS).
-* Studying how homeostatic mechanisms enable neural circuits to maintain stable and robust function under sensory perturbations (Wu et al., 2020 PNAS).
+* How recurrent cortical circuits with diverse cell types implement context-dependent processing using data-driven approaches.
+* How short-term synaptic plasticity shapes network dynamics and computations in recurrent circuits (Wu & Zenke, 2021 eLife; Waitzmann*, Wu*, Gjorgjieva, 2024 PNAS).
+* How homeostatic mechanisms enable neural circuits to maintain stable and robust function under sensory perturbations (Wu et al., 2020 PNAS).
 
 News
 ------
