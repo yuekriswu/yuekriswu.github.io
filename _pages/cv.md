@@ -12,7 +12,7 @@ Education
 * Ph.D. in Computational Neuroscience (summa cum laude), Technical University of Munich, Max Planck Institute for Brain Research, 2024
 * M.S. in Engineering, Technical University of Munich, 2018
 
-Research & Work experience
+Research & Work Experience
 ------
 * Postdoctoral Research Scientist, Zuckerman Institute at Columbia University, US, since 2024
 * Research Scientist, University of Cambridge, UK, Apr 2023 - Jun 2023
