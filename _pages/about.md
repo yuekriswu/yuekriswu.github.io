@@ -18,6 +18,10 @@ Selected topics I have worked on include:
 * Studying how short-term synaptic plasticity shapes network dynamics and computations in recurrent circuits (Wu & Zenke, 2021 eLife; Waitzmann*, Wu*, Gjorgjieva, 2024 PNAS).
 * Studying how homeostatic mechanisms enable neural circuits to maintain stable and robust function under sensory perturbations (Wu et al., 2020 PNAS).
 
+With advances in neuroscience technologies, I am increasingly interested in **using data-driven approaches to study how interactions across brain regions give rise to perception, cognition, and behavior**.
+
+I am always happy to discuss science. Please feel free to reach out anytime.
+
 News
 ------
 
