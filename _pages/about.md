@@ -24,3 +24,5 @@ Publications
 * **Wu, Y. K.**, and Zenke, F. (2021). Nonlinear Transient Amplification in Recurrent Neural Networks with Short-Term Plasticity. eLife, 10, e71263.
 * **Wu, Y. K.**, Hengen, K. B., Turrigiano, G. G., and Gjorgjieva, J. (2020). Homeostatic Mechanisms Regulate Distinct Aspects of Cortical Circuit Dynamics. Proceedings of the National Academy of Sciences, 117(39), 24514-24525.
 * Pacheco, A. T., Tilden, E. I., Grutzner, S. M., Lane, B. J., **Wu, Y.**, Hengen, K. B., Gjorgjieva, J., and Turrigiano, G. G. (2019). Rapid and Active Stabilization of Visual Cortical Firing Rates across Light–Dark Transitions. Proceedings of the National Academy of Sciences, 116(36), 18068- 18077.
+
+*equal contribution, #co-corresponding authors.
