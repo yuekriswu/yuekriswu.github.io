@@ -16,7 +16,7 @@ News
 
 Publications
 ------
-* Veneto, F.∗, Kepc ̧e, A.∗, **Wu, Y. K.#**, and Gjorgjieva, J.# (2025). Cell-type-specific synaptic scaling mechanisms differentially contribute to associative learning. bioRxiv.
+* Veneto, F.∗, Kepçe, A.∗, **Wu, Y. K.#**, and Gjorgjieva, J.# (2025). Cell-type-specific synaptic scaling mechanisms differentially contribute to associative learning. bioRxiv.
 * Couderc, Y., Dhani Reddy, T., Vardiero, G., Garg, A., Ricci, D., d’Almeida, M., Nicolas, C., Habchi, T., **Wu, Y. K.**, Gjorgjieva, J., Li, Y., Valjent, E., and Beyeler, A. (2024). Dopamine transmission in the anterior insula shapes the neural coding of anxiety. bioRxiv.
 * Waitzmann, F.∗, **Wu, Y. K.∗#**, and Gjorgjieva, J.# (2024). Top-Down Modulation in Canonical Cortical Circuits with Short-Term Plasticity. Proceedings of the National Academy of Sciences, 121(16), e2311040121.
 * **Wu, Y. K.** and Gjorgjieva, J. (2023). Inhibition Stabilization and Paradoxical Effects in Recurrent Neural Networks with Short-Term Plasticity. Physical Review Research, 5, 033023.
