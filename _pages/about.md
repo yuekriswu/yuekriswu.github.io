@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-
-About me
 ======
 Hello, and welcome to my website.
 
