@@ -31,7 +31,7 @@ Active Membership in Scientific Societies
 
 Teaching
 ------
-* Advanced Topics in Theoretical Neuroscience - Lecture - Columbia University, US, 2025
+* Advanced Topics in Theoretical Neuroscience - Lecturer - Columbia University, US, 2025
 * Methods in Computational Neuroscience - Teaching Assistant - Woods Hole, US, 2024
 * Introduction to Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2024
 * Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2022
