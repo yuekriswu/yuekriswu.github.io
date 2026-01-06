@@ -21,34 +21,29 @@ Research & Work experience
 
 Awards
 ------
-Joachim Herz Add-on Fellowship, 2022 - 2024
-Technical University of Munich Graduate School Internationalization Support, 2023
-Bernstein Conference Travel Grant, 2017
+* Joachim Herz Add-on Fellowship, 2022 - 2024
+* Technical University of Munich Graduate School Internationalization Support, 2023
+* Bernstein Conference Travel Grant, 2017
 
 Active Membership in Scientific Societies
 ------
-PhD Representative of the Bernstein Network Computational Neuroscience, Sept 2021 - Mar 2024
+* PhD Representative of the Bernstein Network Computational Neuroscience, Sept 2021 - Mar 2024
 
 Teaching
 ------
-Advanced Topics in Theoretical Neuroscience - Lecture - Columbia University, US, 2025
-Methods in Computational Neuroscience - Teaching Assistant - Woods Hole, US, 2024
-Introduction to Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2024
-Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2022
-Scientific Computing for Biological Sciences with Matlab - Teaching Assistant - Technical University of Munich, 2021
+* Advanced Topics in Theoretical Neuroscience - Lecture - Columbia University, US, 2025
+* Methods in Computational Neuroscience - Teaching Assistant - Woods Hole, US, 2024
+* Introduction to Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2024
+* Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2022
+* Scientific Computing for Biological Sciences with Matlab - Teaching Assistant - Technical University of Munich, 2021
 
 Organization
 ------
-Bernstein Workshop - Interrogating the Ties that Bind: Relationship Between Multi-Level Network Connectivity and Neural Dynamics, 2023
-Cosyne Workshop - Shaping Circuit Functions via Plastic and Diverse Inhibition, 2023
-Bernstein Student Workshop Series, 2022 - 2023
-Bernstein PhD Symposium, 2022 - 2023
+* Bernstein Workshop - Interrogating the Ties that Bind: Relationship Between Multi-Level Network Connectivity and Neural Dynamics, 2023
+* Cosyne Workshop - Shaping Circuit Functions via Plastic and Diverse Inhibition, 2023
+* Bernstein Student Workshop Series, 2022 - 2023
+* Bernstein PhD Symposium, 2022 - 2023
 
 Ad Hoc Reviewer
 ------
 eLife, PRX Life, PLOS Computational Biology, Cosyne
-
-  
-Service and leadership
-------
-* Currently signed in to 43 different slack teams
