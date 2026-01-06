@@ -11,6 +11,13 @@ Hello, and welcome to my website.
 
 I am Kris, currently a postdoctoral researcher working with Ken Miller at the Center for Theoretical Neuroscience, Zuckerman Institute, Columbia University. Previously, I completed my PhD in the lab of Julijana Gjorgjieva at the Technical University of Munich and the Max Planck Institute for Brain Research in Germany.
 
+I use mathematical and computational approaches to understand how neural computations emerge from the interplay between circuit structure, network dynamics, and synaptic plasticity.
+
+Selected topics I have worked on include:
+* Investigating how recurrent neural circuits with diverse cell types implement context-dependent processing using data-driven approaches.
+* Studying how short-term synaptic plasticity shapes network dynamics and computations in recurrent circuits (Wu & Zenke, 2021 eLife; Waitzmann*, Wu*, Gjorgjieva, 2024 PNAS).
+* Studying how homeostatic mechanisms enable neural circuits to maintain stable and robust function under sensory perturbations (Wu et al., 2020 PNAS).
+
 News
 ------
 
