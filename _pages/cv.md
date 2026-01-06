@@ -46,4 +46,4 @@ Organization
 
 Ad Hoc Reviewer
 ------
-eLife, PRX Life, PLOS Computational Biology, Cosyne
+* eLife, PRX Life, PLOS Computational Biology, Cosyne
