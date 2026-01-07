@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, and welcome to my website. :wave:
 
-I am Kris, currently a postdoctoral researcher working with Ken Miller at the Center for Theoretical Neuroscience, Zuckerman Institute, Columbia University. Previously, I completed my PhD in the lab of Julijana Gjorgjieva at the Technical University of Munich and the Max Planck Institute for Brain Research in Germany.
+I am Kris, currently a postdoctoral researcher working with Ken Miller at the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu), Zuckerman Institute, Columbia University. Previously, I completed my PhD in the lab of Julijana Gjorgjieva at the Technical University of Munich and the Max Planck Institute for Brain Research in Germany.
 
 I use mathematical and computational approaches to understand how brain function emerges from the interplay among circuit structure, network dynamics, and synaptic plasticity.
 
