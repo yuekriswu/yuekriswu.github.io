@@ -36,4 +36,4 @@ Publications
 * Wu, Y. K., Hengen, K. B., Turrigiano, G. G., and Gjorgjieva, J. (2020). [Homeostatic Mechanisms Regulate Distinct Aspects of Cortical Circuit Dynamics](https://www.pnas.org/doi/10.1073/pnas.1918368117). *Proceedings of the National Academy of Sciences*, 117(39), 24514-24525.
 * Pacheco, A. T., Tilden, E. I., Grutzner, S. M., Lane, B. J., Wu, Y., Hengen, K. B., Gjorgjieva, J., and Turrigiano, G. G. (2019). [Rapid and Active Stabilization of Visual Cortical Firing Rates across Light–Dark Transitions](https://www.pnas.org/doi/10.1073/pnas.1906595116). *Proceedings of the National Academy of Sciences*, 116(36), 18068- 18077.
 
-*equal contribution, #co-corresponding authors.
+\*equal contribution, <sup>\#</sup>co-corresponding authors.
