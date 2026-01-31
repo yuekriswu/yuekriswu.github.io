@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /life-and-arts/
+permalink: /life-outside-of-academia/
 author_profile: true
 ---
 
