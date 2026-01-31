@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Life and Arts"
+title: ""
 permalink: /life-and-arts/
 author_profile: true
 ---
