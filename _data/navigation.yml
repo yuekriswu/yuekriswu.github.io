@@ -27,7 +27,7 @@ main:
     url: /cv/
 
   - title: "Life Outside of Academia"
-    url: /teaching/   
+    url: /rest/   
     
   # - title: "CV"
   #   url: /cv-json/
