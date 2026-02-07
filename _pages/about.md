@@ -14,7 +14,7 @@ I am Kris, currently a postdoctoral researcher working with Ken Miller at the [C
 I use mathematical and computational approaches to understand how brain function emerges from the interplay among cell type diversity, circuit structure, network dynamics, and synaptic plasticity.
 
 Selected topics I have worked on include:
-* Investigating how recurrent cortical circuits with diverse cell types implement context-dependent processing using data-driven approaches.
+* Investigating how recurrent cortical circuits with diverse cell types implement context-dependent processing using data-driven approaches (Wu et al., 2026 bioRxiv).
 * Studying how short-term synaptic plasticity shapes network dynamics and computations in recurrent circuits (Wu and Zenke, 2021 eLife; Waitzmann\*, Wu\*, Gjorgjieva, 2024 PNAS).
 * Studying how homeostatic mechanisms enable neural circuits to maintain stable and robust function under sensory perturbations (Wu et al., 2020 PNAS).
 
@@ -27,6 +27,7 @@ News
 
 Publications
 ------
+* Wu, Y. K., Chau, H. Y., Di Santo, S. and Miller, K. D. (2026). [Characteristics and dynamical signatures of recurrent cortical circuits during context-dependent processing](https://www.biorxiv.org/content/10.64898/2026.02.06.704473v1). *bioRxiv*.
 * Veneto, F.\*, Kepçe, A.\*, Wu, Y. K.<sup>\#</sup>, and Gjorgjieva, J.<sup>\#</sup> (2025). [Cell-type-specific synaptic scaling mechanisms differentially contribute to associative learning](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v1). *bioRxiv*.
 * Couderc, Y., Dhani Reddy, T., Vardiero, G., Garg, A., Ricci, D., d’Almeida, M., Nicolas, C., Habchi, T., Wu, Y. K., Gjorgjieva, J., Li, Y., Valjent, E., and Beyeler, A. (2024). [Dopamine transmission in the anterior insula shapes the neural coding of anxiety](https://www.biorxiv.org/content/10.1101/2024.10.25.620186v2). *bioRxiv*.
 * Waitzmann, F.\*, Wu, Y. K.\*<sup>\#</sup>, and Gjorgjieva, J.<sup>\#</sup> (2024). [Top-Down Modulation in Canonical Cortical Circuits with Short-Term Plasticity](https://www.pnas.org/doi/10.1073/pnas.2311040121). *Proceedings of the National Academy of Sciences*, 121(16), e2311040121.
