@@ -14,7 +14,7 @@ Education
 
 Research & Work Experience
 ------
-* Postdoctoral Research Scientist, Zuckerman Institute at Columbia University, US, since 2024
+* Postdoctoral Research Scientist, Columbia University, US, since 2024
 * Research Scientist, University of Cambridge, UK, Apr 2023 - Jun 2023
 * Research Student, Friedrich Miescher Institute for Biomedical Research, Switzerland, Oct 2019 - May 2021
 * Research Student, Max Planck Institute for Brain Research, Germany, Apr 2017 - Sept 2019
@@ -32,15 +32,14 @@ Active Membership in Scientific Societies
 Teaching
 ------
 * Advanced Topics in Theoretical Neuroscience - Lecturer - Columbia University, US, 2025
-* Methods in Computational Neuroscience - Teaching Assistant - Woods Hole, US, 2024
-* Introduction to Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2024
-* Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2022
+* Methods in Computational Neuroscience - Teaching Assistant - Marine Biological Laboratory, Woods Hole, US, 2024
+* Introduction to Computational Neuroscience - Teaching Assistant - Technical University of Munich, 2022 & 2024
 * Scientific Computing for Biological Sciences with Matlab - Teaching Assistant - Technical University of Munich, 2021
 
 Organization
 ------
-* Bernstein Workshop - Interrogating the Ties that Bind: Relationship Between Multi-Level Network Connectivity and Neural Dynamics, 2023
-* Cosyne Workshop - Shaping Circuit Functions via Plastic and Diverse Inhibition, 2023
+* Bernstein Workshop - Interrogating the ties that bind: Relationship between multi-level network connectivity and neural dynamics, 2023
+* Cosyne Workshop - Shaping circuit functions via plastic and diverse inhibition, 2023
 * Bernstein Student Workshop Series, 2022 - 2023
 * Bernstein PhD Symposium, 2022 - 2023
 
