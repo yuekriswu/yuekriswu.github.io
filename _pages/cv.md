@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D. in Computational Neuroscience (summa cum laude), Technical University of Munich, Max Planck Institute for Brain Research, 2024
+* Ph.D. in Computational Neuroscience, Technical University of Munich, Max Planck Institute for Brain Research, 2024
 * M.S. in Engineering, Technical University of Munich, 2018
 
 Research & Work Experience
