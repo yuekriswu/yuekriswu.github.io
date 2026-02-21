@@ -24,6 +24,7 @@ I am always happy to discuss science. Please feel free to reach out anytime.
 
 News
 ------
+Feb 2026, New preprint [Characteristics and dynamical signatures of recurrent cortical circuits during context-dependent processing](https://www.biorxiv.org/content/10.64898/2026.02.06.704473v1).
 
 Publications
 ------
