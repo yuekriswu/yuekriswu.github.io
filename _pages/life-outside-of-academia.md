@@ -5,7 +5,7 @@ permalink: /life-outside-of-academia/
 author_profile: true
 ---
 
-Feb 2026, An Ark @ The Shed, NYC: The first play created for mixed reality.
+Feb 2026, An Ark @ The Shed, NYC: The first play created for mixed reality using augmented reality glasses. I really like its content, a meditation on a single human lifetime.
 
 <img src="../../images/An_Ark.jpeg" alt="Description of the image" style="width:60%; height:auto;">
 
