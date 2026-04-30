@@ -11,7 +11,7 @@ Hi, and welcome to my website. :wave:
 
 I am Kris, currently a postdoctoral researcher working with Ken Miller at the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu), Zuckerman Institute, Columbia University. Previously, I completed my PhD in the lab of Julijana Gjorgjieva at the [Technical University of Munich](https://www.tum.de) and the [Max Planck Institute for Brain Research](https://brain.mpg.de/home) in Germany.
 
-I use mathematical and computational approaches to understand how brain function emerges from the interplay among cell type diversity, circuit structure, network dynamics, and synaptic plasticity.
+I use mathematical and computational approaches to understand how cell type diversity and synaptic plasticity shape neural dynamics and computation.
 
 Selected topics I have worked on include:
 * Investigating how recurrent cortical circuits with diverse cell types implement context-dependent processing using data-driven approaches (Wu et al., 2026 bioRxiv).
