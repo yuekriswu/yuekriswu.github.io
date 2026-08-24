@@ -24,6 +24,8 @@ I am always happy to discuss science. Please feel free to reach out anytime.
 
 News
 ------
+Aug 2026: Attending the German Academic International Network (GAIN) Conference in San Francisco, U.S.
+
 May 2026: Our work, [Cell-type-specific synaptic scaling mechanisms differentially contribute to associative learning](https://www.jneurosci.org/content/early/2026/05/26/JNEUROSCI.0987-25.2026), is now published in the Journal of Neuroscience!
 
 Mar 2026: Poster presentation at Cosyne in Portugal.
