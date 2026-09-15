@@ -21,6 +21,7 @@ Research & Work Experience
 
 Awards
 ------
+* GAIN Scholarship, 2026
 * Joachim Herz Add-on Fellowship, 2022 - 2024
 * Technical University of Munich Graduate School Internationalization Support, 2023
 * Bernstein Conference Travel Grant, 2017
