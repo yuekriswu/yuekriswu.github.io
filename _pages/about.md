@@ -38,6 +38,7 @@ Feb 2026: New preprint [Characteristics and dynamical signatures of recurrent co
 
 Publications
 ------
+* Wu, Y. K. and Miller, K. D. (2026). [Inter-regional interactions uncouple within-region inhibition stabilization and paradoxical responses](https://www.biorxiv.org/content/10.64898/2026.09.09.750483v1). *bioRxiv*.
 * Wu, Y. K., Chau, H. Y., Di Santo, S., and Miller, K. D. (2026). [Characteristics and dynamical signatures of recurrent cortical circuits during context-dependent processing](https://www.biorxiv.org/content/10.64898/2026.02.06.704473v1). *bioRxiv*.
 * Veneto, F.\*, Kepçe, A.\*, Wu, Y. K.<sup>\#</sup>, and Gjorgjieva, J.<sup>\#</sup> (2026). [Cell-type-specific synaptic scaling mechanisms differentially contribute to associative learning](https://www.jneurosci.org/content/early/2026/05/26/JNEUROSCI.0987-25.2026). *Journal of Neuroscience* 46(27), e0987252026.
 * Couderc, Y., Reddy, T. D., Vardiero, G., Garg, A., Ricci, D., d’Almeida, M., Nicolas, C., Habchi, T., Wu, Y. K., Gjorgjieva, J., Li, Y., Valjent, E., and Beyeler, A. (2024). [Dopamine transmission in the anterior insula shapes the neural coding of anxiety](https://www.biorxiv.org/content/10.1101/2024.10.25.620186v2). *bioRxiv*.
