@@ -24,6 +24,8 @@ I am always happy to discuss science. Please feel free to reach out anytime.
 
 News
 ------
+Sept 2026: New preprint [Inter-regional interactions uncouple within-region inhibition stabilization and paradoxical responses](https://www.biorxiv.org/content/10.64898/2026.09.09.750483v1) is now on bioRxiv!
+
 Sept 2026: Invited talk at the Computational Neuroscience Next Generation Symposium at Washington University in St. Louis, U.S.
 
 Aug 2026: Attending the German Academic International Network (GAIN) Conference in San Francisco, U.S.
