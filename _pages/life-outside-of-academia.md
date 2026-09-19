@@ -4,6 +4,13 @@ title: ""
 permalink: /life-outside-of-academia/
 author_profile: true
 ---
+Sept 2026, The Gateway Arch, St. Louis.
+
+<img src="../../images/The_Gateway_Arch" alt="Description of the image" style="width:60%; height:auto;">
+
+Aug 2026, Golden Gate Bridge, San Francisco.
+
+<img src="../../images/Golden_Gate_Bridge" alt="Description of the image" style="width:60%; height:auto;">
 
 Apr 2026, Whitney Biennial @ Whitney Museum of American Art, NYC.
 
