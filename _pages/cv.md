@@ -14,7 +14,8 @@ Education
 
 Research & Work Experience
 ------
-* Postdoctoral Research Scientist, Columbia University, US, since 2024
+* ICoN Postdoctoral Fellow, MIT, US, Oct 2026 - Present
+* Postdoctoral Research Scientist, Columbia University, US, Apr 2024 - Sept 2026
 * Research Scientist, University of Cambridge, UK, Apr 2023 - Jun 2023
 * Research Student, Friedrich Miescher Institute for Biomedical Research, Switzerland, Oct 2019 - May 2021
 * Research Student, Max Planck Institute for Brain Research, Germany, Apr 2017 - Sept 2019
