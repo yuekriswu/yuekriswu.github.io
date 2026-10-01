@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, and welcome to my website. :wave:
 
-I am Kris, currently a postdoctoral researcher working with Ken Miller at the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu), Zuckerman Institute, Columbia University. Previously, I completed my PhD in the lab of Julijana Gjorgjieva at the [Technical University of Munich](https://www.tum.de) and the [Max Planck Institute for Brain Research](https://brain.mpg.de/home) in Germany.
+I am Kris, an ICoN Postdoctoral Fellow at MIT, working with Sven Dorkenwald and Ila Fiete. Prior to that, I was a postdoctoral research scientist in the lab of Ken Miller at the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu), Zuckerman Institute, Columbia University. I completed my PhD in the lab of Julijana Gjorgjieva at the [Technical University of Munich](https://www.tum.de) and the [Max Planck Institute for Brain Research](https://brain.mpg.de/home) in Germany.
 
 I use mathematical and computational approaches to understand how cell type diversity and synaptic plasticity shape neural dynamics and computation.
 
@@ -24,6 +24,8 @@ I am always happy to discuss science. Please feel free to reach out anytime.
 
 News
 ------
+Oct 2026: Starting a new position as an ICoN Postdoctoral Fellow at MIT, working with Sven Dorkenwald and Ila Fiete on connectome-constrained models.
+
 Sept 2026: New preprint [Inter-regional interactions uncouple within-region inhibition stabilization and paradoxical responses](https://www.biorxiv.org/content/10.64898/2026.09.09.750483v1) is now on bioRxiv!
 
 Sept 2026: Invited talk at the Computational Neuroscience Next Generation Symposium at Washington University in St. Louis, U.S.
